@@ -13,12 +13,11 @@ The Real Estate Marketplace is a comprehensive online platform designed to conne
 ![home (2)](https://github.com/user-attachments/assets/9fe8bf37-c57f-42d9-a9df-979e6fa714c7)
 
 
-![home (3)](https://github.com/user-attachments/assets/c08b3a0a-2cc6-4160-9c66-16a6360cffe0)
+![home (3)](https://github.com/user-attachments/assets/f0a86ef6-1064-46e3-9959-62f698b9244c)
 
-![home (4)](https://github.com/user-attachments/assets/64355b28-1fb8-4a02-b697-417721f76bfe)
+![home (4)](https://github.com/user-attachments/assets/9b8ee496-52f0-4cd9-b13a-94d68be9f193)
 
-
-![home (5)](https://github.com/user-attachments/assets/657fe272-9859-4c4c-b51e-f116fb0652e6)
+![home (5)](https://github.com/user-attachments/assets/bee2636e-02f4-4909-ae0f-d22c4e5244e4)
 
 
 ## Key Features
